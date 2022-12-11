@@ -1,8 +1,20 @@
-# Music Map
+# Deno on Apollo Server
 
-## node version
+Deno で Apollo + Pothos + Prisma構成を作りたい
 
-v18.12.1
+## TODO
+
+- pothos入れたい
+- prisma入れたい
+
+## deno version
+
+```sh
+⚡ ❯ deno --version
+deno 1.28.3 (release, aarch64-apple-darwin)
+v8 10.9.194.5
+typescript 4.8.3
+```
 
 ## 開発方法
 
