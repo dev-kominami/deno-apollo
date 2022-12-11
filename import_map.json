@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "/": "./",
+    "./": "./",
+    "@apollo/server": "npm:@apollo/server@^4.2.2/",
+    "@apollo/server/standalone": "npm:@apollo/server@4.2.2/standalone"
+  }
+}

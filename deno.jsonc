@@ -2,5 +2,6 @@
   "tasks": {
     "dev": "denon -c backend/scripts.config.ts dev",
     "fmtw": "deno fmt --watch"
-  }
+  },
+  "importMap": "./import_map.json"
 }
